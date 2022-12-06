@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Saigor's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -11,12 +11,11 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
-
+   Hau nota bat da.
 Contents
 --------
 
 .. toctree::
 
-   usage
+   erabilpena
    api
