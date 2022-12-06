@@ -1,5 +1,5 @@
-Usage
-=====
+Erabilpena
+==========
 
 .. _installation:
 
